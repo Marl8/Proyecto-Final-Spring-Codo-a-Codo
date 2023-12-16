@@ -13,7 +13,7 @@ import java.util.Set;
 public class ReporteResponseDTO {
 
 
-    private int numeroVuelosVendidos;
+    private int numeroReservasVendidas;
     private Double ingresosGenerados;
     private Map<String,Integer> destinosPopulares;
 
