@@ -35,6 +35,16 @@ Finalmente se utilizó JUnit con Mockito para las pruebas unitarias y de integra
 
 
 
+### Video Demostrativo
+
+
+
+
+https://github.com/Marl8/Proyecto-Final-Spring-Codo-a-Codo/assets/116129705/58740942-633e-47e3-84ac-6558126a9e7f
+
+
+
+
 ### Presentación del proyecto
 
 
