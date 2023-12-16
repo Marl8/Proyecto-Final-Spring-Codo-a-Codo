@@ -73,7 +73,7 @@ public class ReservaServiceImpl implements ReservaService {
             }
         }
 
-        reporte.setNumeroVuelosVendidos(cantidadReservas);
+        reporte.setNumeroReservasVendidas(cantidadReservas);
         reporte.setIngresosGenerados(ingresosTotales);
         reporte.setDestinosPopulares(contadorDestinos);
         return reporte;
@@ -116,7 +116,7 @@ public class ReservaServiceImpl implements ReservaService {
         }
         int cantidadReservas = result.size();
 
-        reporte.setNumeroVuelosVendidos(cantidadReservas);
+        reporte.setNumeroReservasVendidas(cantidadReservas);
         reporte.setIngresosGenerados(ingresosTotales);
         reporte.setDestinosPopulares(contadorDestinos);
         return reporte;
