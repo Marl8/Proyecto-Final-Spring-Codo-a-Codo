@@ -124,7 +124,7 @@ public class ReservaServiceTest {
         Reserva reserva = ReservaUtils.reserva1();
         Vuelo vuelo = VueloUtils.vuelo3();
         Usuario usuario = UsuarioUtils.usuario1();
-        ReservaResponseDTO expected = new ReservaResponseDTO("Su reserva ha sido exitosa", "Vuelo con salida de " +
+        ReservaResponseDTO expected = new ReservaResponseDTO("Su reserva ha sido exitosa. Precio con descuento", "Vuelo con salida de " +
                 reserva.getVuelo().getItinerario().getCiudadOrigen() + " con destino a "
                 + reserva.getVuelo().getItinerario().getCiudadDestino(), 81000D, reserva.getTipoPago(),
                 reserva.getFechaReserva());
