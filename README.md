@@ -7,13 +7,15 @@ se ha implentadado la gestión de excepciones con su correspondiente Controller 
 Finalmente se utilizó JUnit con Mockito para las pruebas unitarias y de integración.
 
 
-### Modelado DER
+### 💻 Modelado DER
 
 
 ![proyecto final](https://github.com/Leangon/agencia-services/assets/116129705/70cb3959-dcd5-4f63-b747-7707e37a1984)
 
+<hr>
 
-### Dependencias utilizadas:
+
+### 💻 Dependencias utilizadas:
 
             - Spring Web
             - Dev Tools
@@ -27,25 +29,28 @@ Finalmente se utilizó JUnit con Mockito para las pruebas unitarias y de integra
             - JWT
             - Swagger
 
+<hr>            
 
-### Testing
+
+### ✔️ Testing
 
 
 ![1](https://github.com/Marl8/Proyecto-Final-Spring-Codo-a-Codo/assets/116129705/41b92520-fe59-4fb1-85cc-9792f39971c0)
 
 
+<hr>
 
-### Video Demostrativo
 
-
+### 📹 Video Demostrativo
 
 
 https://github.com/Marl8/Proyecto-Final-Spring-Codo-a-Codo/assets/116129705/58740942-633e-47e3-84ac-6558126a9e7f
 
 
+<hr>
 
 
-### Presentación del proyecto
+### 💿 Presentación del proyecto
 
 
 
