@@ -4,6 +4,7 @@
 Proyecto final realizado en el Curso de Spring impartido por el programa Codo a Codo. El mismo consiste en una API REST para una agencia de gestión de vuelos.
 Se implementado en el proyecto las siguientes tecnologias: Spring Data JPA con MySQL, Lombok, Spring Validator, Spring Security JWT y Swagger, también se ha 
 implentadado la gestión con su correspondiente Controller Advice.
+Finalmente se utilizó JUnit con Mockito ra las pruebas unitarias y de integración.
 
 
 ### Modelado DER
@@ -25,6 +26,13 @@ implentadado la gestión con su correspondiente Controller Advice.
             - Spring Security
             - JWT
             - Swagger
+
+
+### Testing
+
+
+![1](https://github.com/Marl8/Proyecto-Final-Spring-Codo-a-Codo/assets/116129705/41b92520-fe59-4fb1-85cc-9792f39971c0)
+
 
 
 ### Presentación del proyecto
